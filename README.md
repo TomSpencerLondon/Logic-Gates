@@ -1,0 +1,1 @@
+[![Build Status](https://api.travis-ci.com/TomSpencerLondon/Logic-Gates.svg?branch=main)](https://travis-ci.com/github/TomSpencerLondon/Logic-Gates)
